@@ -7,7 +7,7 @@ echo "🎸 Starting Metal Aloud installation on Ubuntu..."
 
 # Configuration
 APP_NAME="metal-aloud"
-DOMAIN="srv685290.hstgr.cloud"
+APP_PORT=3002  # Changed to avoid conflicts
 NODE_VERSION="22"
 APP_DIR="/var/www/$APP_NAME"
 LOG_DIR="/var/log/$APP_NAME"
