@@ -1,0 +1,23 @@
+{
+  "common": {
+    "home": "Home",
+    "search": "Search",
+    "library": "Library",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "settings": {
+    "language": "Language",
+    "font": "Font Style",
+    "theme": "Theme",
+    "notifications": "Notifications"
+  },
+  "fonts": {
+    "metal": "Metal",
+    "gothic": "Gothic",
+    "brutal": "Brutal",
+    "elegant": "Elegant",
+    "system": "System"
+  }
+}

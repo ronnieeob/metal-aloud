@@ -1,0 +1,23 @@
+{
+  "common": {
+    "home": "Startseite",
+    "search": "Suche",
+    "library": "Bibliothek",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "logout": "Abmelden"
+  },
+  "settings": {
+    "language": "Sprache",
+    "font": "Schriftart",
+    "theme": "Design",
+    "notifications": "Benachrichtigungen"
+  },
+  "fonts": {
+    "metal": "Metal",
+    "gothic": "Gotisch",
+    "brutal": "Brutal",
+    "elegant": "Elegant",
+    "system": "System"
+  }
+}

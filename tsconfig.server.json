@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "outDir": "dist/server",
+    "rootDir": "src/server",
+    "typeRoots": [
+      "./node_modules/@types",
+      "./src/server/types"
+    ],
+    "lib": ["ES2020"]
+  },
+  "include": ["src/server/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
